@@ -1,4 +1,5 @@
-# Interplanetary Wars
+# Interplanetary Wars\*
+*\* I do not endorse war. Make love, not War!*\
 This is a game entirely built on OpenGL using C++ with the help of sound and texturing libraries. More importantly, this is also an exercise in Design Patterns for Applications with a Graphical Interfaces. The project employs the MVC Architecture: Model, View and Controller. See it in action here:
 [![Link to the Youtube Video](https://img.youtube.com/vi/jJTryPLwkAM/0.jpg)](https://www.youtube.com/watch?v=jJTryPLwkAM)
 
